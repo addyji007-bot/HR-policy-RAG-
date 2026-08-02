@@ -31,23 +31,7 @@ This project demonstrates the core concepts behind Retrieval-Augmented Generatio
 | Notebook             | Jupyter Notebook |
 | Web Framework        | Streamlit        |
 
----
 
-# Project Structure
-
-```text
-.
-├── data/
-│   └── hr_policy.txt
-├── notebooks/
-├── app.py
-├── requirements.txt
-├── .env
-├── .gitignore
-└── README.md
-```
-
----
 
 # Getting Started
 
